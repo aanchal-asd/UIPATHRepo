@@ -9,7 +9,16 @@
       <description>An in-depth look at creating applications 
       with XML.</description>
    </book>
-  
+   <book id="bk102">
+      <author>Ralls, Kim</author>
+      <title>Midnight Rain</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2000-12-16</publish_date>
+      <description>A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</description>
+   </book>
    <book id="bk103">
       <author>Corets, Eva</author>
       <title>Maeve Ascendant</title>
@@ -46,7 +55,7 @@
       <title>Lover Birds</title>
       <genre>Romance</genre>
       <price>4.95</price>
-      <publish_date>2000-09-11</publish_date>
+      <publish_date>2000-09-02</publish_date>
       <description>When Carla meets Paul at an ornithology 
       conference, tempers fly as feathers get ruffled.</description>
    </book>
@@ -65,7 +74,7 @@
       <genre>Horror</genre>
       <price>4.95</price>
       <publish_date>2000-12-06</publish_date>
-      <description>An anthology of  stories about roaches,
+      <description>An anthology of horror stories about roaches,
       centipedes, scorpions  and other insects.</description>
    </book>
    <book id="bk109">
