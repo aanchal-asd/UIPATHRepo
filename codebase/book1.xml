@@ -19,6 +19,17 @@
       an evil sorceress, and her own childhood to become queen 
       of the world.</description>
    </book>
+   <book id="bk1050">
+      <author>Ralls, Test</author>
+      <title>Midnight Rain</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2000-12-26</publish_date>
+      <description>A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</description>
+   </book>
+   
    <book id="bk103">
       <author>Corets, Eva</author>
       <title>Maeve Ascendant</title>
